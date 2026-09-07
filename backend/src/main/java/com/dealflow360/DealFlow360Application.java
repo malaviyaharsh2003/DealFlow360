@@ -11,6 +11,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class DealFlow360Application {
     public static void main(String[] args) {
         SpringApplication.run(DealFlow360Application.class, args);
-        System.out.println("********Started-appliation********");
+        System.out.println("********Welcome-To-DealFlow360-Application********");
+
     }
 }
